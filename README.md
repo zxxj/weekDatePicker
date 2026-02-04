@@ -1,6 +1,8 @@
 ## Week-Date-Picker 基于Vue3的周历组件
 
-![alt text](/public/x.png)
+<div align="center">
+  <img src="/public/x.png" alt="alt" />
+</div>
 
 
 ```js
